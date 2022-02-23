@@ -1,0 +1,40 @@
+@import "colors";
+@import "typography";
+@import "card";
+
+//MEDIA QUERIES VARIABLES
+$mobile: 375px;
+$desktop: 1440px;
+
+//Media queries
+// @media screen and (min-width: $mobile) and (max-width: $desktop) {
+//css code
+body {
+  font-family: "Outfit", sans-serif;
+  // max-width: $desktop;
+  background-color: $main-bg-dark-blue;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+// }
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
