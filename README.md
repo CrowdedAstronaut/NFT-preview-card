@@ -14,19 +14,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
-
 ## Overview <a name="about"></a>
+
 NFT-preview-card-component is a deployed, mobile first, rendering of an NFT. This project was an exercise in:
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -35,8 +25,14 @@ Users should be able to:
 - Mobile-first workflow
 - [Sass](https://sass-lang.com/) - Syntactically Awesome Style Sheets
 
-### Screenshot <a name="screenshot"></a>
+### The challenge
 
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Screenshot <a name="screenshot"></a>
 
 ### Mobile Preview
 
@@ -80,13 +76,11 @@ Users should be able to:
 <hr />
 <br />
 
-
-
-
 ## Author <a name="author"></a>
+
 - Website - [John Ross Phillips](https://www.johnrossphillips.com)
 - Frontend Mentor - [@CrowdedAstronaut](https://www.frontendmentor.io/profile/CrowdedAstronaut)
 
-
 ## Acknowledgments <a name="acknowledgments"></a>
+
 This solution was inspired by [@xvferdy](https://www.frontendmentor.io/profile/xvferdy). I was inspired by their near pixel perfect solution submitted on FrontEnd Mentor, and I wanted to duplicate it. Specifically, using partials and Sass/Scss because those are relatively new tools/concepts to me.
