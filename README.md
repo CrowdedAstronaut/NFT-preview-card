@@ -8,13 +8,13 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [About this project](#about)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Technologies](#technologies)
 - [Learning Experience](#learning)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-## Overview <a name="about"></a>
+## About <a name="about"></a>
 
 NFT-preview-card-component is a deployed, mobile first, rendering of an NFT. This project was an exercise in:
 
