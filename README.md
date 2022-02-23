@@ -51,7 +51,7 @@ Users should be able to:
       <td>
         <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
         <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img alt="SASS" src="https://img.shields.io/badge/sass3%20-%231572B6.svg?&style=for-the-badge&logo=sass3&logoColor=pink" />
+        <img alt="SASS" src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=pink" />
       </td>
     </tr>
       <td>Design</td>
