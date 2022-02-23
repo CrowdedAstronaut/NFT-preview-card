@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Mobile Preview
 
-![Mobile Preview]()
+![Mobile Preview](https://github.com/CrowdedAstronaut/NFT-preview-card/raw/main/images/NFT_preview_mobile.png)
 
 ### Desktop Preview
 
