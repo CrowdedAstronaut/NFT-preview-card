@@ -8,6 +8,7 @@
   display: flex;
   flex-direction: column;
   border-radius: 15px;
+  justify-content: center;
   &__hero {
     position: relative;
     width: 100%;
@@ -56,6 +57,7 @@
     flex-direction: column;
     gap: 16px;
     &__title {
+      text-align: left;
       font-weight: 300;
       font-size: 22px;
       color: $white;
@@ -67,7 +69,7 @@
     }
     &__sub-title {
       color: $soft-blue;
-
+      text-align: left;
       margin-bottom: 8px;
     }
     &__nft-info {

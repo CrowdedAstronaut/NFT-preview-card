@@ -11,23 +11,23 @@ $desktop: 1440px;
 //css code
 body {
   font-family: "Outfit", sans-serif;
-  // max-width: $desktop;
   background-color: $main-bg-dark-blue;
   font-size: 18px;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 // }
-
+main {
+  width: 1440px;
+  height: 900px;
+}
 .container {
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  text-align: center;
+  margin: 0 auto;
+  border: 0.5rem solid black;
 }
 
 .attribution {
