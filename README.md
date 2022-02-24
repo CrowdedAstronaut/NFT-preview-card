@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Desktop Preview
 
-![Desktop Preview]()
+![Desktop Preview](https://github.com/CrowdedAstronaut/NFT-preview-card/raw/main/images/NFT_preview_desktop.gif)
 
 # Technologies <a name="technologies"></a>
 
