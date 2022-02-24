@@ -84,4 +84,4 @@ Users should be able to:
 
 ## Acknowledgments <a name="acknowledgments"></a>
 
-This solution was inspired by [@xvferdy](https://www.frontendmentor.io/profile/xvferdy). I was inspired by their near pixel perfect solution submitted on FrontEnd Mentor, and I wanted to duplicate it. Specifically, using partials and Sass/Scss because those are relatively new tools/concepts to me.
+This solution was inspired by [@xvferdy](https://www.frontendmentor.io/profile/xvferdy). I was inspired by their near pixel perfect solution submitted on FrontEnd Mentor. I wanted to get as close as possible to their implementation. Specifically, using partials and Sass/Scss because those are relatively new tools/concepts to me.

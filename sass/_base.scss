@@ -3,8 +3,8 @@
 @import "card";
 
 //MEDIA QUERIES VARIABLES
-$mobile: 375px;
-$desktop: 1440px;
+$mobile-width: 375px;
+$desktop-width: 1440px;
 
 //Media queries
 // @media screen and (min-width: $mobile) and (max-width: $desktop) {
@@ -13,13 +13,14 @@ body {
   font-family: "Outfit", sans-serif;
   background-color: $main-bg-dark-blue;
   font-size: 18px;
-  margin: 0;
+
   padding: 0;
 }
 // }
 main {
-  width: 1440px;
-  height: 900px;
+  width: $mobile-width;
+  height: 100vh;
+  margin: auto;
 }
 .container {
   display: flex;
@@ -27,14 +28,21 @@ main {
   align-items: center;
   text-align: center;
   margin: 0 auto;
-  border: 0.5rem solid black;
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: white;
 
   a {
     color: hsl(228, 45%, 44%);
+  }
+}
+
+@media (min-width: 875px) {
+  main {
+    width: $desktop-width;
+    height: 100vh;
   }
 }

@@ -126,13 +126,13 @@ body {
   font-family: "Outfit", sans-serif;
   background-color: #0d192b;
   font-size: 18px;
-  margin: 0;
   padding: 0;
 }
 
 main {
-  width: 1440px;
-  height: 900px;
+  width: 375px;
+  height: 100vh;
+  margin: auto;
 }
 
 .container {
@@ -141,17 +141,23 @@ main {
   align-items: center;
   text-align: center;
   margin: 0 auto;
-  border: 0.5rem solid black;
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: white;
 }
 .attribution a {
   color: #3e52a3;
 }
 
+@media (min-width: 875px) {
+  main {
+    width: 1440px;
+    height: 100vh;
+  }
+}
 .card {
   max-width: 350px;
   padding: 24px;
